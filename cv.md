@@ -5,7 +5,7 @@
 - **GitHub:** [Dasha-hu](https://github.com/Dasha-hu)
 - **Discord:** [Dasha](https://discord.com/channels/@me)
 ## Photo
-![icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fperson-icon-white-icon-PNG-free-PNG-Images_125345&psig=AOvVaw18hVeLky-yUpsXTvSOSGSh&ust=1670885132068000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPirpZ3S8vsCFQAAAAAdAAAAABAE)
+![my icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fperson-icon-white-icon-PNG-free-PNG-Images_125345&psig=AOvVaw18hVeLky-yUpsXTvSOSGSh&ust=1670885132068000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPirpZ3S8vsCFQAAAAAdAAAAABAE)
 ## About Me
 I am 18 years old. I am studying web programming at Belarusian State University. My goal is to gain new knowledge, upgrade my skills. I am sure that my thirst for knowledge will lead to a good result in the future.
 ## Skills
