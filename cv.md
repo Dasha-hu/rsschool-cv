@@ -25,5 +25,5 @@ I am 18 years old. I am studying web programming at Belarusian State University.
 - **University:** Belarusian State University.
 ## Languages
 - **Russian:** native speaker.
-- **English:** B1-B2.
+- **English:** B1-B2
 ![Снимок экрана (195)](https://user-images.githubusercontent.com/118767018/206933669-7e9502fd-22fe-4d94-ab5d-e61fd0f7724f.png)
